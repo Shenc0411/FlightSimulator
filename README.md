@@ -4,7 +4,7 @@ This is an extension to an existing project [VR Flight Simulator](https://github
 
 Video Demo for this project:
 
-[![alt text](thumbnail.png "Video Demo")](https://www.youtube.com/watch?v=erC30xDrbJ8)
+[![Video Demo Thumbnail](thumbnail.jpg "Video Demo")](https://www.youtube.com/watch?v=erC30xDrbJ8)
 
 ## Requirement
 1. X-Plane 10 Software
