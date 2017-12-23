@@ -2,6 +2,10 @@
 
 This is an extension to an existing project [VR Flight Simulator](https://github.com/BigBallerBrand/flightSimulator.git)
 
+Video Demo for this project:
+
+[![alt text](thumbnail.png "Video Demo")](https://www.youtube.com/watch?v=erC30xDrbJ8)
+
 ## Requirement
 1. X-Plane 10 Software
 2. At least one Oculus Rift with a pair of touch controllers (for main pilot).
